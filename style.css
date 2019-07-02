@@ -309,3 +309,108 @@
         padding-left: 225px;
    
     }
+
+
+    /* section4 */
+
+    .section4 > h2{
+        font-family: HelveticaNeue;
+        font-size: 42px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.21;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+    }
+
+    .rectcard3{
+        width: 351px;
+        height: 436.3px;
+        margin-left: 120px;
+        border-radius: 19px;
+        border: solid 4px #4b8bea;
+      
+    }
+    .rectcard2{
+        width: 351px;
+        height: 436.3px;
+        margin-left: 120px;
+        border-radius: 19px;
+        border: solid 4px #4b8bea;
+      
+    }
+    .cardcontainer{
+        display: flex;
+        justify-content: center;
+    }
+    .rectcard1{
+        width: 351px;
+        height: 436.3px;
+        border-radius: 19px;
+        border: solid 4px #4b8bea;
+      
+        border-top-color:linear-gradient(to bottom, #3d73bc, #5ea2fc);
+    }
+
+    .topcardrect{
+        width: 351px;
+        text-align: center;
+        padding-top: 15px;
+        font-family: HelveticaNeue;
+        color: #ffffff;
+        position: absolute;
+        font-size: 30px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        margin-top: 0;
+        border-radius: 16px 16px 0 0;
+    }
+    .topcarddiv{
+            position: absolute;
+            width: 351px;
+            height: 66px;
+            background-image: linear-gradient(to bottom, #3d73bc, #5ea2fc);
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+    }
+    .h5cont{
+        height: 46px;
+        font-family: HelveticaNeue;
+        font-size: 20px;
+        position: relative;
+        margin-top: 66px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2.35;
+        letter-spacing: 0.48px;
+        text-align: center;
+        color: #4b8bea;
+        background-color: #d2e4fd;
+    }
+     .rectcard2>.topcarddiv{
+         margin-left:-2px;
+         width: 354px;   
+     }
+
+     .rectcard2>h5{
+         width: 353px;
+         margin-left:-1px;
+     }
+    .pcont{
+        width: 351px;
+        position: relative;
+        height: 220px;
+        font-family: HelveticaNeue;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.4;
+        letter-spacing: normal;
+        text-align: center;
+        color: #4e4e4e;
+    }
