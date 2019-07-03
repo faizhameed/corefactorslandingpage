@@ -420,6 +420,7 @@
         margin-top: 65px;
         text-align: center;
         padding-bottom: 24px;
+        justify-content: center;
       }
 
       .r47col>h5{
@@ -460,15 +461,15 @@
       }
       .col1{
         margin-left:30px;
-        padding-right:350px;
+        
       }
       .col2{
        margin: 0;
-       padding-right:150px;
+       padding-right:2%;
       }
       .col3{
       margin-right: 30px;
-      padding-left:30px;
+    
 
       }
       
