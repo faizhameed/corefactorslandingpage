@@ -9,15 +9,18 @@
 
 .Container {
 
-    width: auto;
+    width: 1850px;
     height: auto;
+    text-align: center;
     opacity: 1;
+    margin:0 auto;
     background-color: #ffffff;
   }
 
   .logo-container{
       height: 69px;
       background-color: #fff;
+      text-align: left;
   }
 
   .logoImage{
@@ -33,6 +36,7 @@
     width: auto;
     height: 838px;
     opacity:0.9;
+    display:flex;
     background:url("./assets/headway-537308-unsplash1.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -40,19 +44,19 @@
   -o-background-size: cover;
   background-size: cover;
     border: solid 1px #707070;
+    text-align: center;
   }
   
   .login-container{ 
     width: 520px;
-    
-    position: relative;
-    height: 650px;
+    height: 750px;
     border-radius: 10px;
     border: solid 1px #707070;
     background-color: #ffffff;
     margin-top: 39px;
     margin-bottom: 80px;
-    margin-left: 64.2%; 
+    margin-left: 200px;
+    
     z-index: 1;
   }
  .inputbox{
@@ -61,7 +65,6 @@
     border-radius: 8px;
     background-color: #f0f7ff;
     margin-top: 55px;
-    margin-left: 70px;
     color: rgb(0, 0, 0);
     font-size: 20px;
     padding-left: 13px; 
@@ -152,6 +155,15 @@
     margin-top: 43px;
     margin-left: 64px;
  }
+ .btn{
+    width: 380px;
+    margin-top: 85px;
+    height: 40px;
+    border-radius: 6px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    color:white;
+    background-color: #000000;
+ }
 
  a{
      cursor: pointer;
@@ -184,7 +196,8 @@
  }
 
  .textcontainer{
-    position: absolute;
+    width:50%;
+    
     margin-top:10%;
     margin-left: 102px;
     z-index:1;
@@ -193,17 +206,19 @@
 
      .flexlogo{
         text-align:center;
-         margin-top: 30px;
+         
+         padding: 30px;
+         margin-bottom: 30px;
      }
 
      .flexlogo>img{
-         margin:40px;
+         margin-top:70px;
      }
      .productrect{
         width: 120.5px;
         height: 120.5px;
         border-radius: 20px;
-        border: solid 4px #000000;
+        border: solid 3px #4e98fd;
         text-align: center;
         padding: 10px;
      }
@@ -405,6 +420,7 @@
         display: flex;
         margin-top: 65px;
         text-align: center;
+        padding-bottom: 24px;
       }
 
       .r47col>h5{
@@ -440,13 +456,23 @@
         letter-spacing: normal;
         text-align: left;
         color: #9a9a9a;
-        width: 750px;
+        width: 100%;
         margin-right:85px;
       }
-      .r47col{
-          margin-left: 175px;
-          position: absolute;
+      .col1{
+        margin-left:30px;
+        padding-right:350px;
       }
+      .col2{
+       margin: 0;
+       padding-right:150px;
+      }
+      .col3{
+      margin-right: 30px;
+      padding-left:30px;
+
+      }
+      
 
       .Rectangle-48 {
         width: 100%;
@@ -470,15 +496,7 @@
             color: #9a9a9a;
           
       }
-      .col1{
-        margin-left: 7.5%;
-      }
-      .col2{
-        margin-left:50%;
-      }
-      .col3{
-          margin-left:75%;
-      }
+      
       #readm{
           color:black;
       }
