@@ -78,7 +78,7 @@
  ::placeholder{
     width: 53px;
     height: 23px;
-    font-family:HelveticaNeue; 
+    font-family:HelveticaNeue,sans-serif; 
     font-size: 12px;
     font-weight: normal;
     font-style: normal;
@@ -104,7 +104,7 @@
     width: 90%;
     padding-top:15px;
     height: 18px;
-    font-family: HelveticaNeue;
+    font-family: HelveticaNeue,sans-serif;
     font-size: 15px;
     font-weight: normal;
     font-style: normal;
@@ -121,7 +121,7 @@
 
     height: 38px;
   
-    font-family: HelveticaNeue;
+    font-family: HelveticaNeue,sans-serif;
   
     font-size: 28px;
   
@@ -159,7 +159,7 @@
      margin-left: 25px;
  }
  .INTEGRATED{
-    font-family: HelveticaNeue;
+    font-family: HelveticaNeue,sans-serif;
     font-size: 31px;
     font-weight: bold;
     font-style: normal;
@@ -174,7 +174,7 @@
 
  .CO-CREATED{
     padding: 20px;
-     font-family: HelveticaNeue;
+     font-family: HelveticaNeue,sans-serif;
      font-size: 25px;
      font-weight: bold;
      font-style: normal;
@@ -230,7 +230,7 @@
 
         height: 65px;
       
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
       
         font-size: 18px;
       
@@ -254,7 +254,7 @@
 
         height: 28px;
       
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
       
         font-size: 24px;
       
@@ -302,7 +302,7 @@
     /* section4 */
 
     .section4 > h2{
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
         font-size: 42px;
         font-weight: bold;
         font-style: normal;
@@ -346,7 +346,7 @@
         width: 351px;
         text-align: center;
         padding-top: 15px;
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
         color: #ffffff;
         position: absolute;
         font-size: 30px;
@@ -367,7 +367,7 @@
     }
     .h5cont{
         height: 46px;
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
         font-size: 20px;
         position: relative;
         margin-top: 66px;
@@ -393,7 +393,7 @@
         width: 351px;
         position: relative;
         height: 220px;
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
         font-size: 20px;
         font-weight: 500;
         font-style: normal;
@@ -418,7 +418,7 @@
       .r47col>h5{
         height: 34px;
 
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
       
         font-size: 29px;
       
@@ -439,7 +439,7 @@
 
       .r47col>p{
         height: 350px;
-        font-family: HelveticaNeue;
+        font-family: HelveticaNeue,sans-serif;
         font-size: 20px;
         font-weight: normal;
         font-style: normal;
