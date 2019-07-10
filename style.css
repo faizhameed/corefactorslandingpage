@@ -206,12 +206,17 @@
          margin-left: 5px;
      }
      .productrect{
-        width: 120.5px;
-        height: 120.5px;
+        width: 100px;
+        height: 100px;
         border-radius: 20px;
         border: solid 3px #4e98fd;
         text-align: center;
         padding: 10px;
+     }
+
+     .pimage{
+        width: 70px;
+        height: 97.5px;
      }
 
      .productinfo1{
